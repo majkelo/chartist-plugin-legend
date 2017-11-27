@@ -1,0 +1,34 @@
+{
+  "name": "chartist-plugin-legend",
+  "description": "Legend plugin with toggling for Chartist.js.",
+  "main": [
+    "chartist-plugin-legend.js",
+    "chartist-plugin-legend.scss"
+  ],
+  "authors": [
+    "Kees Kluskens <kees@codeyellow.nl>",
+    "Chawalit Limsowan <chawalit@pinacono.com>",
+    "Michal Mike Szulc <majkesz@wp.pl>"
+  ],
+  "dependencies": {
+    "chartist": "~0.9.8"
+  },
+  "license": "MIT",
+  "keywords": [
+    "chartist",
+    "legend",
+    "toggle"
+  ],
+  "homepage": "https://github.com/majkelo/chartist-plugin-legend",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ]
+}
